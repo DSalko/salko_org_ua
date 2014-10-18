@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Dmytro S. | software developer and a dreamer"
+keywords:    "Games for iPhone, iOS applications"
+description: "My personal web page to tell a bit about myself and my projects"
 source_link: false
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
