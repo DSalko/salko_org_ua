@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Dmytro S. | software developer and a dreamer"
 keywords:    "Games for iPhone, iOS applications"
 description: "My personal web page to tell a bit about myself and my projects"
-source_link: false
+source_link: "https://github.com/DmitriySalko/salko_org_ua"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-4657091-4 ## put YOUR key here to enable tracking! (blank to disable)
